@@ -1,6 +1,6 @@
-# EXNO2DS
+# EXNO : 02
 # AIM:
-      To perform Exploratory Data Analysis on the given data set.
+To perform Exploratory Data Analysis on the given data set.
       
 # EXPLANATION:
   The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
@@ -56,5 +56,5 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 
 
-# RESULT
-        Thus the program to perform Exploratory Data Analysis was written and executed successfully.
+# RESULT:
+Thus the program to perform Exploratory Data Analysis was written and executed successfully.
